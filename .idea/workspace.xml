@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76aa1ab9-7414-41a9-8d64-d7a77d5bccff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/algo/patternsearching/KmpPatternSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/gfg/algo/patternsearching/NaivePatternSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/gfg/algo/patternsearching/NaivePatternSearch.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,11 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/NaivePatternSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+            <state>
+              <caret column="34" selection-start-column="34" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/KmpPatternSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -61,10 +70,11 @@
         <option value="$PROJECT_DIR$/java/src/gfg/ds/array/ArrayRotation.java" />
         <option value="$PROJECT_DIR$/java/src/gfg/ds/array/RotateArrayJuggling.java" />
         <option value="$PROJECT_DIR$/java/src/gfg/algo/patternsearching/NaivePatternSearch.java" />
+        <option value="$PROJECT_DIR$/java/src/gfg/algo/patternsearching/KmpPatternSearch.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1939" />
@@ -108,6 +118,15 @@
               <item name="gfg" type="462c0819:PsiDirectoryNode" />
               <item name="algo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="geeksforgeeks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geeksforgeeks" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gfg" type="462c0819:PsiDirectoryNode" />
+              <item name="algo" type="462c0819:PsiDirectoryNode" />
+              <item name="patternsearching" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -137,13 +156,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NaivePatternSearch">
+  <component name="RunManager" selected="Application.KmpPatternSearch">
     <configuration name="ArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gfg.ds.array.ArrayRotation" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="gfg.ds.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KmpPatternSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.algo.patternsearching.KmpPatternSearch" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gfg.algo.patternsearching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,6 +211,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KmpPatternSearch" />
         <item itemvalue="Application.NaivePatternSearch" />
         <item itemvalue="Application.RotateArrayJuggling" />
         <item itemvalue="Application.ArrayRotation" />
@@ -202,7 +235,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25637585" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -215,7 +248,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329429" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.27525622" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.27525622" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -283,6 +316,36 @@
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/KmpPatternSearch.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/KmpPatternSearch.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/KmpPatternSearch.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/KmpPatternSearch.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/KmpPatternSearch.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -312,8 +375,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/NaivePatternSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/KmpPatternSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
         </state>
       </provider>
     </entry>
