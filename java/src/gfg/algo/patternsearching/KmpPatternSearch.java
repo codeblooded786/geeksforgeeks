@@ -4,11 +4,32 @@ public class KmpPatternSearch {
 
     public static void KMPSearch(String txt, String pat) {
 
-        System.out.println("Inside KMPSearch");
-        int arr[] = computeLPSArray(pat);
+        int i = 0;
+        int j = 0;
+
+        //  System.out.println("Inside KMPSearch");
+        int lps[] = computeLPSArray(pat);
         for (int x :
-                arr) {
+                lps) {
             System.out.print(x + " ");
+        }
+
+        while (i < txt.length()) {
+            if (txt.charAt(i) == pat.charAt(j)) {
+                i++;
+                j++;
+            }
+            if (j == pat.length()) {
+                System.out.println("Pattern found at index: " + (i - j));
+                j = lps[j - 1];
+            } else if (i < txt.length() && pat.charAt(j) != txt.charAt(i)) {
+                if (j != 0)
+                    j = lps[j - 1];
+                else {
+                    j = 0;
+                    i++;
+                }
+            }
         }
     }
 
@@ -37,8 +58,8 @@ public class KmpPatternSearch {
 
     public static void main(String args[]) {
         String txt = "ABABDABACDABABCABAB";
-        //  String pat = "ABABCABAB";
-        String pat = "AABAABAAA";
+        String pat = "ABABCABAB";
+        //String pat = "AABAABAAA";
         KMPSearch(txt, pat);
     }
 }
