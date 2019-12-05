@@ -2,9 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76aa1ab9-7414-41a9-8d64-d7a77d5bccff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/graph/BreadthFirstSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/graph/DepthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MaxNumInString7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MaxSegmentValAfterKBreakPoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MaxValueUsingPlusOrStar8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MinMaxSumWithDigitReplacement3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MinimumSumOfSquaresOfCharacterCountsInGivenStringAfterRemovingKCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SmallestNumWithSumNDivBy10PowerN1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumOfNumInString6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumOfTwoLargeNumbers5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumString4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/basics/AllCharSameInString8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/basics/ChangeStringToNewCharSet12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/basics/DuckNumber10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/basics/FindOneExtraCharInString13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/basics/FunctionToCopyStringIterative1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/basics/InitialsOfName9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/basics/IntegerOrString7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/basics/MissingCharToMakePanagram3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/basics/PanagramChecking2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/basics/PanagrammaticLipogram4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/basics/PunctuationRemovalFromString5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/basics/RearrangeCharNoTwoAdjCharSame6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/basics/RearrangeCharNoTwoAdjCharSameUsingPriorityQueue6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/basics/RoundToNearestMultipleOfTen11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/java/META-INF/java.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/java/gfg/ds/string/basics/FunctionToCopyStringIterative1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/java/gfg/ds/string/basics/MissingCharToMakePanagram3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/java/gfg/ds/string/basics/PanagramChecking2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/java/gfg/ds/string/basics/PanagrammaticLipogram4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/java/gfg/ds/string/basics/PunctuationRemovalFromString5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/java/gfg/ds/string/basics/RearrangeCharNoTwoAdjCharSame6.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/gfg/gfg/pratice/ChefRecipe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/java/gfg/ds/graph/BreadthFirstSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/java/gfg/ds/graph/BreadthFirstSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/java/gfg/gfg/pratice/ChefRecipe.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,98 +48,96 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/dynamicprogramming/basic/LongestIncreasingSubsequence34.java">
+        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/FindOneExtraCharInString13.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
-              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/dynamicprogramming/basic/LongestRepeatedSubsequence33.java">
+        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SmallestNumWithSumNDivBy10PowerN1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
-              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+              <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/dynamicprogramming/basic/UglyNumbers1.java">
+        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MinimumSumOfSquaresOfCharacterCountsInGivenStringAfterRemovingKCharacters.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+              <caret line="2" column="88" selection-start-line="2" selection-start-column="88" selection-end-line="2" selection-end-column="88" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/dynamicprogramming/basic/FibonacciNumbers2.java">
+        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MinMaxSumWithDigitReplacement3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            <state relative-caret-position="69">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/dynamicprogramming/basic/CoinChange9.java">
+        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumString4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="69">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/dynamicprogramming/basic/SubsetSum11.java">
+        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumOfTwoLargeNumbers5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/dynamicprogramming/intermediate/KnapsackProblem10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/graph/GraphRepresentation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="35" column="5" selection-start-line="25" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/graph/BreadthFirstSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="35" column="43" lean-forward="true" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+            <state relative-caret-position="437">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/graph/DepthFirstSearch.java">
+        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumOfNumInString6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MaxNumInString7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MaxValueUsingPlusOrStar8.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MaxSegmentValAfterKBreakPoins.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -135,14 +165,29 @@
         <option value="$PROJECT_DIR$/java/src/gfg/algo/patternsearching/problems/CensorAsterisk.java" />
         <option value="$PROJECT_DIR$/java/src/gfg/ds/graph/GraphRepresentation.java" />
         <option value="$PROJECT_DIR$/java/src/gfg/ds/graph/BreadthFirstSearch.java" />
+        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/FunctionToCopyString1.java" />
+        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/FunctionToCopyStringIterative1.java" />
+        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/MissingCharToMakePanagram3.java" />
+        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/PanagrammaticLipogram4.java" />
+        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/RearrangeCharNoTwoAdjCharSame6.java" />
+        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/InitialsOfName9.java" />
+        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/DuckNumber.java" />
+        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/DuckNumber10.java" />
+        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/ChangeStringToNewCharSet12.java" />
+        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MinMaxSumWithDigitReplacement3.java" />
+        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumString4.java" />
+        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumOfTwoLargeNumbers5.java" />
+        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumOfNumInString6.java" />
+        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MaxNumInString.java" />
+        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MaxNumInString7.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1100" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -150,6 +195,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,13 +236,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="gfg" type="462c0819:PsiDirectoryNode" />
               <item name="ds" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="geeksforgeeks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="geeksforgeeks" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gfg" type="462c0819:PsiDirectoryNode" />
+              <item name="ds" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
+              <item name="arithmetic_operation_in_string" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BreadthFirstSearch">
+  <component name="RunManager" selected="Application.SumOfTwoLargeNumbers5">
     <configuration name="BreadthFirstSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gfg.ds.graph.BreadthFirstSearch" />
       <module name="java" />
@@ -234,12 +289,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChefRecipe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gfg.gfg.pratice.ChefRecipe" />
+    <configuration name="ChangeStringToNewCharSet12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.ds.string.basics.ChangeStringToNewCharSet12" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gfg.gfg.pratice.*" />
+          <option name="PATTERN" value="gfg.ds.string.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,12 +315,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KmpPatternSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gfg.algo.patternsearching.KmpPatternSearch" />
+    <configuration name="RearrangeCharNoTwoAdjCharSame6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.ds.string.basics.RearrangeCharNoTwoAdjCharSame6" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gfg.algo.patternsearching.*" />
+          <option name="PATTERN" value="gfg.ds.string.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,12 +328,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NaivePatternSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gfg.algo.patternsearching.NaivePatternSearch" />
+    <configuration name="SumOfTwoLargeNumbers5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.ds.string.arithmetic_operation_in_string.SumOfTwoLargeNumbers5" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gfg.algo.patternsearching.*" />
+          <option name="PATTERN" value="gfg.ds.string.arithmetic_operation_in_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,11 +343,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfTwoLargeNumbers5" />
+        <item itemvalue="Application.ChangeStringToNewCharSet12" />
+        <item itemvalue="Application.RearrangeCharNoTwoAdjCharSame6" />
         <item itemvalue="Application.BreadthFirstSearch" />
         <item itemvalue="Application.GraphRepresentation" />
-        <item itemvalue="Application.KmpPatternSearch" />
-        <item itemvalue="Application.ChefRecipe" />
-        <item itemvalue="Application.NaivePatternSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +368,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2637584" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26778522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -567,13 +622,180 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/graph/BreadthFirstSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="35" column="43" lean-forward="true" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+        <state relative-caret-position="667">
+          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#440#441#0" expanded="true" />
             <element signature="e#489#490#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/FunctionToCopyStringIterative1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/PanagramChecking2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/MissingCharToMakePanagram3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/PanagrammaticLipogram4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/PunctuationRemovalFromString5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/RearrangeCharNoTwoAdjCharSame6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/RearrangeCharNoTwoAdjCharSameUsingPriorityQueue6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/IntegerOrString7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/AllCharSameInString8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/InitialsOfName9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/DuckNumber10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/strings_in_java.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/RoundToNearestMultipleOfTen11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/ChangeStringToNewCharSet12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/FindOneExtraCharInString13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SmallestNumWithSumNDivBy10PowerN1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MinimumSumOfSquaresOfCharacterCountsInGivenStringAfterRemovingKCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="88" selection-start-line="2" selection-start-column="88" selection-end-line="2" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MinMaxSumWithDigitReplacement3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumString4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumOfTwoLargeNumbers5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumOfNumInString6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MaxNumInString7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MaxValueUsingPlusOrStar8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MaxSegmentValAfterKBreakPoins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
         </state>
       </provider>
     </entry>
