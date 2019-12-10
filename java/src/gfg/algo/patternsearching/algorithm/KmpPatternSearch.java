@@ -1,4 +1,4 @@
-package gfg.algo.patternsearching;
+package gfg.algo.patternsearching.algorithm;
 
 public class KmpPatternSearch {
 
