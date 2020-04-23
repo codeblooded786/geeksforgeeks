@@ -250,7 +250,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DifficultyOfSentence26">
+  <component name="RunManager" selected="Application.ArrayRotation">
+    <configuration name="ArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.ds.array.ArrayRotation" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gfg.ds.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ChangeStringToNewCharSet12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gfg.ds.string.basics.ChangeStringToNewCharSet12" />
       <module name="java" />
@@ -290,19 +303,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RearrangeCharNoTwoAdjCharSame6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gfg.ds.string.basics.RearrangeCharNoTwoAdjCharSame6" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gfg.ds.string.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SumOfTwoLargeNumbers5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gfg.ds.string.arithmetic_operation_in_string.SumOfTwoLargeNumbers5" />
       <module name="java" />
@@ -318,11 +318,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayRotation" />
         <item itemvalue="Application.DifficultyOfSentence26" />
         <item itemvalue="Application.MultiplyLargeNum17" />
         <item itemvalue="Application.SumOfTwoLargeNumbers5" />
         <item itemvalue="Application.ChangeStringToNewCharSet12" />
-        <item itemvalue="Application.RearrangeCharNoTwoAdjCharSame6" />
       </list>
     </recent_temporary>
   </component>
