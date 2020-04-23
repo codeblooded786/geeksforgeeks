@@ -2,32 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76aa1ab9-7414-41a9-8d64-d7a77d5bccff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/DecimalOfBinaryDivByFive14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/DifficultyOfSentence26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/DivByTripleNine16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/DivideLargeNum18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/LargeNumDivByEleven12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/LargeNumDivByFour11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MinimumIndexSumForCommonElementsOfTwoLists27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MultiplyLargeNum17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/OddEven21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/OneNumPowerOfOther20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/RemainderWIthSevenForLargeNum19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/RemainderWhenDivByEleven23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SubstringDivBySix13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SubstringDivbyEightNotThree15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/XorZero24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/array/arrayPractice/arrayRotation/ArrayRotationByJugglingAlgorithm1M3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/array/arrayPractice/arrayRotation/ArrayRotationByReversalAlgorithm2M4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/array/arrayPractice/arrayRotation/ArrayRotationOneByOne1M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/array/arrayPractice/arrayRotation/ArrayRotationUsingTempArray1M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/gfg/ds/array/arrayPractice/arrayRotation/CommonMethodsForArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/java/META-INF/java.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/java/gfg/ds/array/arrayPractice/arrayRotation/ArrayRotationByJugglingAlgorithm1M3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/java/gfg/ds/array/arrayPractice/arrayRotation/ArrayRotationByReversalAlgorithm2M4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/java/gfg/ds/array/arrayPractice/arrayRotation/ArrayRotationOneByOne1M2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/java/gfg/ds/array/arrayPractice/arrayRotation/ArrayRotationUsingTempArray1M1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production/java/gfg/ds/array/arrayPractice/arrayRotation/CommonMethodsForArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/gfg/algo/patternsearching/KmpPatternSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/gfg/algo/patternsearching/algorithm/KmpPatternSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/gfg/algo/patternsearching/NaivePatternSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/gfg/algo/patternsearching/algorithm/NaivePatternSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/gfg/algo/patternsearching/OptimizedNaivePatternSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/gfg/algo/patternsearching/algorithm/OptimizedNaivePatternSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/gfg/algo/patternsearching/RabinKarpPatternSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/gfg/algo/patternsearching/algorithm/RabinKarpPatternSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/java/gfg/algo/patternsearching/KmpPatternSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/java/gfg/algo/patternsearching/NaivePatternSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/java/gfg/algo/patternsearching/OptimizedNaivePatternSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/java/gfg/algo/patternsearching/RabinKarpPatternSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/gfg/ds/array/RotateArrayJuggling.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/gfg/ds/array/RotateArrayJuggling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/java/gfg/ds/array/RotateArrayJuggling.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/java/gfg/ds/array/RotateArrayJuggling.class" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,100 +24,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/OneNumPowerOfOther20.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/OddEven21.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/algorithm/KmpPatternSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/algorithm/NaivePatternSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/algorithm/OptimizedNaivePatternSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/algorithm/RabinKarpPatternSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/RemainderWhenDivByEleven23.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/XorZero24.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/DifficultyOfSentence26.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1012">
-              <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MinimumIndexSumForCommonElementsOfTwoLists27.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -140,96 +35,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/array/ArrayRotation.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/array/RotateArrayJuggling.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/algo/patternsearching/NaivePatternSearch.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/gfg/pratice/ChefRecipe.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/algo/patternsearching/KmpPatternSearch.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/algo/patternsearching/problems/CensorAsterisk.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/graph/GraphRepresentation.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/graph/BreadthFirstSearch.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/FunctionToCopyString1.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/FunctionToCopyStringIterative1.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/MissingCharToMakePanagram3.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/PanagrammaticLipogram4.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/RearrangeCharNoTwoAdjCharSame6.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/InitialsOfName9.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/DuckNumber.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/DuckNumber10.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/basics/ChangeStringToNewCharSet12.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MinMaxSumWithDigitReplacement3.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumString4.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumOfTwoLargeNumbers5.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumOfNumInString6.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MaxNumInString.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MaxNumInString7.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MaxSegmentValAfterKBreakPoints9.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/DiffOfTwoLargeNum10.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/LargeNumDivByEleven12.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SubstringDivbyEightNotThree15.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/DivByTripleNine16.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MultiplyLargeNum16.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/DifficultyOfSentence26.java" />
-        <option value="$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MinimumIndexSumForCommonElementsOfTwoLists27.java" />
-      </list>
-    </option>
+  <component name="ProjectId" id="1awFTaQCQNCKdqpwEnO4HXBz47W" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1100" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="geeksforgeeks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geeksforgeeks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geeksforgeeks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geeksforgeeks" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geeksforgeeks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geeksforgeeks" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geeksforgeeks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geeksforgeeks" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gfg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geeksforgeeks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geeksforgeeks" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gfg" type="462c0819:PsiDirectoryNode" />
-              <item name="ds" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -237,20 +52,9 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.ArrayRotation">
+  <component name="RunManager" selected="Application.ArrayRotationByReversalAlgorithm2M4">
     <configuration name="ArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gfg.ds.array.ArrayRotation" />
       <module name="java" />
@@ -264,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChangeStringToNewCharSet12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gfg.ds.string.basics.ChangeStringToNewCharSet12" />
+    <configuration name="ArrayRotationByReversalAlgorithm2M4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.ds.array.arrayPractice.arrayRotation.ArrayRotationByReversalAlgorithm2M4" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gfg.ds.string.basics.*" />
+          <option name="PATTERN" value="gfg.ds.array.arrayPractice.arrayRotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DifficultyOfSentence26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gfg.ds.string.arithmetic_operation_in_string.DifficultyOfSentence26" />
+    <configuration name="ArrayRotationOneByOne1M2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.ds.array.arrayPractice.arrayRotation.ArrayRotationOneByOne1M2" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gfg.ds.string.arithmetic_operation_in_string.*" />
+          <option name="PATTERN" value="gfg.ds.array.arrayPractice.arrayRotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplyLargeNum17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gfg.ds.string.arithmetic_operation_in_string.MultiplyLargeNum17" />
+    <configuration name="ArrayRotationUsingTempArray1M1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.ds.array.arrayPractice.arrayRotation.ArrayRotationUsingTempArray1M1" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gfg.ds.string.arithmetic_operation_in_string.*" />
+          <option name="PATTERN" value="gfg.ds.array.arrayPractice.arrayRotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfTwoLargeNumbers5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gfg.ds.string.arithmetic_operation_in_string.SumOfTwoLargeNumbers5" />
+    <configuration name="RotateArrayJuggling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.ds.array.RotateArrayJuggling" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gfg.ds.string.arithmetic_operation_in_string.*" />
+          <option name="PATTERN" value="gfg.ds.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayRotationByReversalAlgorithm2M4" />
+        <item itemvalue="Application.RotateArrayJuggling" />
+        <item itemvalue="Application.ArrayRotationOneByOne1M2" />
+        <item itemvalue="Application.ArrayRotationUsingTempArray1M1" />
         <item itemvalue="Application.ArrayRotation" />
-        <item itemvalue="Application.DifficultyOfSentence26" />
-        <item itemvalue="Application.MultiplyLargeNum17" />
-        <item itemvalue="Application.SumOfTwoLargeNumbers5" />
-        <item itemvalue="Application.ChangeStringToNewCharSet12" />
       </list>
     </recent_temporary>
   </component>
@@ -339,75 +143,58 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27181208" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="DB Browser" order="4" weight="0.3295302" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Project Explorer" order="6" weight="0.3295302" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info id="Capture Tool" order="8" />
-      <window_info id="Job Explorer" order="9" weight="0.3295302" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329429" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.27525622" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.34260616" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.329429" />
-      <window_info anchor="bottom" id="Console" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2637584" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="DB Browser" order="4" weight="0.3295302" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Project Explorer" order="6" weight="0.3295302" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info id="Capture Tool" order="8" />
-      <window_info id="Job Explorer" order="9" weight="0.3295302" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329429" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.27525622" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.41874084" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="bottom" id="Console" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-    </layout-to-restore>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="338" y="94" width="755" height="577" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1587656330485">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="338" y="94" width="755" height="577" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/65.24.1301.744@65.24.1301.744" timestamp="1587656330485" />
+    <state width="1255" height="193" key="GridCell.Tab.0.bottom" timestamp="1587669174376">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="193" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1587669174376" />
+    <state width="1255" height="193" key="GridCell.Tab.0.center" timestamp="1587669174371">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="193" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1587669174371" />
+    <state width="1255" height="193" key="GridCell.Tab.0.left" timestamp="1587669174370">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="193" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1587669174370" />
+    <state width="1255" height="193" key="GridCell.Tab.0.right" timestamp="1587669174375">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="193" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1587669174375" />
+    <state width="1255" height="156" key="GridCell.Tab.1.bottom" timestamp="1587661884390">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="156" key="GridCell.Tab.1.bottom/65.24.1301.744@65.24.1301.744" timestamp="1587661884390" />
+    <state width="1255" height="156" key="GridCell.Tab.1.center" timestamp="1587661884389">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="156" key="GridCell.Tab.1.center/65.24.1301.744@65.24.1301.744" timestamp="1587661884389" />
+    <state width="1255" height="156" key="GridCell.Tab.1.left" timestamp="1587661884389">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="156" key="GridCell.Tab.1.left/65.24.1301.744@65.24.1301.744" timestamp="1587661884389" />
+    <state width="1255" height="156" key="GridCell.Tab.1.right" timestamp="1587661884389">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="156" key="GridCell.Tab.1.right/65.24.1301.744@65.24.1301.744" timestamp="1587661884389" />
+    <state x="377" y="24" width="900" height="744" key="SettingsEditor" timestamp="1587659219511">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="377" y="24" width="900" height="744" key="SettingsEditor/65.24.1301.744@65.24.1301.744" timestamp="1587659219511" />
+    <state x="65" y="24" width="618" height="777" key="find.popup" timestamp="1587645922787">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="65" y="24" width="618" height="777" key="find.popup/65.24.1301.744@65.24.1301.744" timestamp="1587645922787" />
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587658985128">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup/65.24.1301.744@65.24.1301.744" timestamp="1587658985128" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -415,417 +202,45 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/gfg/ds/array/RotateArrayJuggling.java</url>
           <line>42</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/algorithm/NaivePatternSearch.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/algorithm/KmpPatternSearch.java</url>
           <line>55</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/algorithm/KmpPatternSearch.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/algorithm/KmpPatternSearch.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/DifficultyOfSentence26.java</url>
           <line>44</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/DifficultyOfSentence26.java</url>
           <line>45</line>
-          <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/DifficultyOfSentence26.java</url>
           <line>46</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/dynamicprogramming/basic/FibonacciNumbers2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/dynamicprogramming/basic/CoinChange9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/dynamicprogramming/basic/SubsetSum11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/dynamicprogramming/intermediate/KnapsackProblem10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/graph/DepthFirstSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/graph/GraphRepresentation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="35" column="5" selection-start-line="25" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/graph/BreadthFirstSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/FunctionToCopyStringIterative1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/PanagramChecking2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/MissingCharToMakePanagram3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/PanagrammaticLipogram4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/PunctuationRemovalFromString5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/RearrangeCharNoTwoAdjCharSame6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/RearrangeCharNoTwoAdjCharSameUsingPriorityQueue6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/IntegerOrString7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/AllCharSameInString8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/InitialsOfName9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/DuckNumber10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/strings_in_java.java" />
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/RoundToNearestMultipleOfTen11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/ChangeStringToNewCharSet12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/basics/FindOneExtraCharInString13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SmallestNumWithSumNDivBy10PowerN1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MinimumSumOfSquaresOfCharacterCountsInGivenStringAfterRemovingKCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="88" selection-start-line="2" selection-start-column="88" selection-end-line="2" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MinMaxSumWithDigitReplacement3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumString4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumOfTwoLargeNumbers5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SumOfNumInString6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MaxNumInString7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MaxValueUsingPlusOrStar8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MaxSegmentValAfterKBreakPoints9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/DiffOfTwoLargeNum10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/LargeNumDivByFour11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/LargeNumDivByEleven12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SubstringDivBySix13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/DecimalOfBinaryDivByFive14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/SubstringDivbyEightNotThree15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/DivByTripleNine16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MultiplyLargeNum17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/DivideLargeNum18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/RemainderWIthSevenForLargeNum19.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/OneNumPowerOfOther20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/OddEven21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/algorithm/KmpPatternSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/algorithm/NaivePatternSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/algorithm/OptimizedNaivePatternSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/algo/patternsearching/algorithm/RabinKarpPatternSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/RemainderWhenDivByEleven23.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/XorZero24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/DifficultyOfSentence26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/gfg/ds/string/arithmetic_operation_in_string/MinimumIndexSumForCommonElementsOfTwoLists27.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
