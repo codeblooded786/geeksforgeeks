@@ -21,9 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="76aa1ab9-7414-41a9-8d64-d7a77d5bccff" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/gfg/algo/dynamicprogramming/basic/LongestIncreasingSubsequence34.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/gfg/algo/dynamicprogramming/basic/LongestIncreasingSubsequence34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaNotes.odt" beforeDir="false" afterPath="$PROJECT_DIR$/javaNotes.odt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/java/gfg/algo/dynamicprogramming/basic/LongestIncreasingSubsequence34.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/java/gfg/algo/dynamicprogramming/basic/LongestIncreasingSubsequence34.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
