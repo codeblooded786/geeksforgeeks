@@ -1,8 +1,6 @@
 package gfg.algo.dynamicprogramming.basic;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
-import java.util.Collections;
 
 public class LongestIncreasingSubsequence34 {
 
