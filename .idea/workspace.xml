@@ -20,10 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76aa1ab9-7414-41a9-8d64-d7a77d5bccff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.~lock.javaNotes.odt#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adobe/Adobe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/Amazon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Directi/Directi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Facebook/Facebook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flipkart/Flipkart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoldmanSachsGS/GoldmanSachsGS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Google/Google.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Microsoft/Microsoft.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oracle/Oracle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SAPLabs/SAPLabs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Samsung/Samsung.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VMware/VMware.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaNotes.odt" beforeDir="false" afterPath="$PROJECT_DIR$/javaNotes.odt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,6 +180,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="198" y="0" width="1024" height="768" key="#Project_Structure" timestamp="1591522348815">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state x="198" y="0" width="1024" height="768" key="#Project_Structure/64.0.1302.768@64.0.1302.768" timestamp="1591522348815" />
     <state x="338" y="94" width="755" height="577" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1587656330485">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
@@ -232,6 +246,10 @@
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="65" y="24" width="618" height="777" key="find.popup/65.24.1301.744@65.24.1301.744" timestamp="1587645922787" />
+    <state x="64" y="0" width="1292" height="768" key="new project wizard" timestamp="1591522922331">
+      <screen x="64" y="0" width="1302" height="768" />
+    </state>
+    <state x="64" y="0" width="1292" height="768" key="new project wizard/64.0.1302.768@64.0.1302.768" timestamp="1591522922331" />
     <state x="378" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587658985128">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
@@ -282,90 +300,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>java</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
