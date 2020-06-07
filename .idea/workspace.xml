@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76aa1ab9-7414-41a9-8d64-d7a77d5bccff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/java/src/gfg/algo/dynamicprogramming/basic/LongestCommonSubsequence32.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/gfg/algo/dynamicprogramming/basic/LongestCommonSubsequence32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/gfg/algo/dynamicprogramming/basic/LongestIncreasingSubsequence34.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/gfg/algo/dynamicprogramming/basic/LongestIncreasingSubsequence34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.~lock.javaNotes.odt#" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaNotes.odt" beforeDir="false" afterPath="$PROJECT_DIR$/javaNotes.odt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../interview" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
