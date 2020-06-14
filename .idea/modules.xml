@@ -6,12 +6,15 @@
       <module fileurl="file://$PROJECT_DIR$/Amazon/Amazon.iml" filepath="$PROJECT_DIR$/Amazon/Amazon.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cisco/Cisco.iml" filepath="$PROJECT_DIR$/Cisco/Cisco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConvexHull/ConvexHull.iml" filepath="$PROJECT_DIR$/ConvexHull/ConvexHull.iml" />
       <module fileurl="file://$PROJECT_DIR$/Directi/Directi.iml" filepath="$PROJECT_DIR$/Directi/Directi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facebook/Facebook.iml" filepath="$PROJECT_DIR$/Facebook/Facebook.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flipkart/Flipkart.iml" filepath="$PROJECT_DIR$/Flipkart/Flipkart.iml" />
       <module fileurl="file://$PROJECT_DIR$/GoldmanSachs/GoldmanSachs.iml" filepath="$PROJECT_DIR$/GoldmanSachs/GoldmanSachs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Google/Google.iml" filepath="$PROJECT_DIR$/Google/Google.iml" />
       <module fileurl="file://$PROJECT_DIR$/Microsoft/Microsoft.iml" filepath="$PROJECT_DIR$/Microsoft/Microsoft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Miscellaneous/Miscellaneous.iml" filepath="$PROJECT_DIR$/Miscellaneous/Miscellaneous.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nutanix/Nutanix.iml" filepath="$PROJECT_DIR$/Nutanix/Nutanix.iml" />
       <module fileurl="file://$PROJECT_DIR$/Oracle/Oracle.iml" filepath="$PROJECT_DIR$/Oracle/Oracle.iml" />
       <module fileurl="file://$PROJECT_DIR$/SAPLabs/SAPLabs.iml" filepath="$PROJECT_DIR$/SAPLabs/SAPLabs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Samsung/Samsung.iml" filepath="$PROJECT_DIR$/Samsung/Samsung.iml" />
