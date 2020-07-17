@@ -16,11 +16,14 @@
       <module fileurl="file://$PROJECT_DIR$/Miscellaneous/Miscellaneous.iml" filepath="$PROJECT_DIR$/Miscellaneous/Miscellaneous.iml" />
       <module fileurl="file://$PROJECT_DIR$/Nutanix/Nutanix.iml" filepath="$PROJECT_DIR$/Nutanix/Nutanix.iml" />
       <module fileurl="file://$PROJECT_DIR$/Oracle/Oracle.iml" filepath="$PROJECT_DIR$/Oracle/Oracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternSearching/PatternSearching.iml" filepath="$PROJECT_DIR$/PatternSearching/PatternSearching.iml" />
       <module fileurl="file://$PROJECT_DIR$/SAPLabs/SAPLabs.iml" filepath="$PROJECT_DIR$/SAPLabs/SAPLabs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Samsung/Samsung.iml" filepath="$PROJECT_DIR$/Samsung/Samsung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchingAndSorting/SearchingAndSorting.iml" filepath="$PROJECT_DIR$/SearchingAndSorting/SearchingAndSorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/VMware/VMware.iml" filepath="$PROJECT_DIR$/VMware/VMware.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/geeksforgeeks.iml" filepath="$PROJECT_DIR$/.idea/geeksforgeeks.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchingAndSorting/searching.iml" filepath="$PROJECT_DIR$/SearchingAndSorting/searching.iml" />
     </modules>
   </component>
 </project>
