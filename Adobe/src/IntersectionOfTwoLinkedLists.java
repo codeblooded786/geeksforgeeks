@@ -22,7 +22,6 @@ public class IntersectionOfTwoLinkedLists {
             length++;
             head = head.next;
         }
-
         return length;
     }
 
@@ -40,16 +39,35 @@ public class IntersectionOfTwoLinkedLists {
             while (diff-- > 0)
                 head2 = head2.next;
 
-
         while (head1 != null) {
             if (head1.equals(head2))
                 return head1.data;
             head1 = head1.next;
             head2 = head2.next;
+        }
+        return -1;
+    }
 
+    public static Node getIntersectionNodeUsingPointers(Node head1, Node head2) {
+        if (head1 == null || head2 == null)
+            return null;
+
+        Node pointer1 = head1;
+        Node pointer2 = head2;
+
+        while (pointer1 != pointer2) {
+            if (pointer1 == null)
+                pointer1 = head2;
+            else
+                pointer1 = pointer1.next;
+
+            if (pointer2 == null)
+                pointer2 = head1;
+            else
+                pointer2 = pointer2.next;
         }
 
-        return -1;
+        return pointer1;
     }
 
     public static void main(String args[]) {
@@ -74,6 +92,8 @@ public class IntersectionOfTwoLinkedLists {
         head1.next.next.next = null;
 
         // Print the intersection node
-        System.out.print(getIntersectionNode(head1, head2));
+        // System.out.print(getIntersectionNode(head1, head2));
+
+        System.out.println(getIntersectionNodeUsingPointers(head1, head2).data);
     }
 }
