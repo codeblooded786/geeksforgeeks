@@ -1,3 +1,6 @@
+import java.util.HashSet;
+import java.util.Set;
+
 /**
  * @project geeksforgeeks
  * Created by @author Rahul Dev Gupta on 20/07/20
@@ -70,6 +73,26 @@ public class IntersectionOfTwoLinkedLists {
         return pointer1;
     }
 
+    public static Node getIntersectionNodeUsingHashTable(Node head1, Node head2) {
+        if (head1 == null || head2 == null)
+            return null;
+
+        Set<Node> nodeSet = new HashSet<>();
+
+        while (head1 != null) {
+            nodeSet.add(head1);
+            head1 = head1.next;
+        }
+
+        while (head2 != null) {
+            if (nodeSet.contains(head2))
+                return head2;
+            head2 = head2.next;
+        }
+
+        return null;
+    }
+
     public static void main(String args[]) {
         Node newNode;
         Node head1 = new Node();
@@ -94,6 +117,6 @@ public class IntersectionOfTwoLinkedLists {
         // Print the intersection node
         // System.out.print(getIntersectionNode(head1, head2));
 
-        System.out.println(getIntersectionNodeUsingPointers(head1, head2).data);
+        System.out.println(getIntersectionNodeUsingHashTable(head1, head2).data);
     }
 }
