@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76aa1ab9-7414-41a9-8d64-d7a77d5bccff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Adobe/src/BuildingHeapFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adobe/src/SubtreeOfAnotherTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/production/Adobe/BuildingHeapFromArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/production/Adobe/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/production/Adobe/SubtreeOfAnotherTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="76aa1ab9-7414-41a9-8d64-d7a77d5bccff" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +61,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.SubtreeOfAnotherTree">
+  <component name="RunManager" selected="Application.MaximumProductSubarray">
     <configuration name="IntersectionOfTwoLinkedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IntersectionOfTwoLinkedLists" />
       <module name="Adobe" />
@@ -76,9 +69,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JarvisMarch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JarvisMarch" />
-      <module name="ConvexHull" />
+    <configuration name="MaximumProductSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximumProductSubarray" />
+      <module name="Adobe" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,19 +98,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JarvisMarch" />
       <item itemvalue="Application.RemoveDuplicatesFromArrayOfSmallPrimes" />
       <item itemvalue="Application.MinimumElementInSortedRotatedArrayWithoutDuplicates" />
       <item itemvalue="Application.IntersectionOfTwoLinkedLists" />
       <item itemvalue="Application.SubtreeOfAnotherTree" />
+      <item itemvalue="Application.MaximumProductSubarray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumProductSubarray" />
         <item itemvalue="Application.SubtreeOfAnotherTree" />
         <item itemvalue="Application.IntersectionOfTwoLinkedLists" />
         <item itemvalue="Application.MinimumElementInSortedRotatedArrayWithoutDuplicates" />
         <item itemvalue="Application.RemoveDuplicatesFromArrayOfSmallPrimes" />
-        <item itemvalue="Application.JarvisMarch" />
       </list>
     </recent_temporary>
   </component>
@@ -170,11 +163,11 @@
       <screen x="64" y="0" width="1302" height="768" />
     </state>
     <state width="477" height="478" key="DebuggerActiveHint/64.0.1302.768@64.0.1302.768" timestamp="1595180478614" />
-    <state x="508" y="142" width="424" height="491" key="FileChooserDialogImpl" timestamp="1590843763170">
+    <state x="508" y="142" width="424" height="491" key="FileChooserDialogImpl" timestamp="1595318572174">
       <screen x="64" y="0" width="1302" height="768" />
     </state>
     <state x="466" y="142" width="424" height="491" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1587908770931" />
-    <state x="508" y="142" width="424" height="491" key="FileChooserDialogImpl/64.0.1302.768@64.0.1302.768" timestamp="1590843763170" />
+    <state x="508" y="142" width="424" height="491" key="FileChooserDialogImpl/64.0.1302.768@64.0.1302.768" timestamp="1595318572174" />
     <state width="1256" height="170" key="GridCell.Tab.0.bottom" timestamp="1595275477925">
       <screen x="64" y="0" width="1302" height="768" />
     </state>
